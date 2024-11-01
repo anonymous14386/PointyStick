@@ -1,0 +1,32 @@
+Main app:
+
+Categories
+	poke (recon)
+		port scan
+		scan sites for a username
+		geoip
+		dns lookup
+		ping
+		web scraping
+	bonk (ddos)
+		reflection
+		SYN Flood
+		Teardrop
+	stab (attacks)
+		Reverse shell
+		Hash cracker
+		SQLi
+	stickbug (mitm)
+		Just integrate msf or some shit idk
+	wigwam (defense/firewall)
+		Emergency off
+		Firewall rules
+		Traffic capture
+	tree (servers)
+		web server
+		irc
+		xmpp
+	root (maintaining access)
+		errrr idfk
+	leaf (botnet)
+		run ufonet lmao
