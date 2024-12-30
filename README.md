@@ -1,2 +1,2 @@
 # PointyStick
-Basic penetration testing and security tools writen in Clojure
+Basic penetration testing and security tools writen in Elixer and Zig
